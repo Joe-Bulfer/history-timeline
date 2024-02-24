@@ -1,6 +1,22 @@
 
 <html>
    </body>
+<style>
+#sideView {
+    position: fixed;
+    right: -250px; /* Start off-screen */
+    top: 0;
+    width: 250px;
+    height: 100%;
+    background-color: white;
+    border-left: 1px solid black;
+    transition: right 0.3s;
+}
+
+#sideView.open {
+    right: 0;
+}
+</style
 
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
@@ -1061,5 +1077,6 @@ Go is an unapologetic boring language with an intended lack of features. This me
        inkscape:connection-end="#rect1-5-7-7-2-2-3-6-2-4" />
   </g>
 </svg>
+<div id="sideView"></div> 
    </body>
 </html>
