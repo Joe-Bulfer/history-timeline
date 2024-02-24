@@ -7,98 +7,119 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
+   sodipodi:docname="timeline.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview260"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0133277"
+     inkscape:cx="192.46742"
+     inkscape:cy="98.0963"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
-     id="defs1" />
+     id="defs1">
+    <rect
+       x="72.516758"
+       y="512.58421"
+       width="42.715351"
+       height="33.774929"
+       id="rect863" />
+    <rect
+       x="171.85478"
+       y="264.23915"
+       width="25.827887"
+       height="35.761689"
+       id="rect631" />
+  </defs>
   <g
      id="layer1">
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0467732"
-       id="rect1-5"
-       width="8.7628365"
-       height="3.9609828"
-       x="21.42654"
-       y="6.7442126"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="20.917067"
-       y="9.6589766"
-       id="text2"
-       transform="scale(1.0517339,0.95081085)"><desc
-         id="desc1">Dealing with the philosophical problem of defining &quot;computing&quot; itself, Alan Turing came up with the theoretical machine that could solve any calculation, given enough time. In the 30's, computers were either analog/mechanical or built using tapes such as Turing's device below. This idea of a universal computational device is key to understanding Computer Science as a field of study and what distinguishes it from all others.
-
-A mechanical engineer does not study the engine, but rather physics. A chemical engineer does not study the factory, but chemistry itself. So then what does a computer scientist study? You might guess physics or electrical engineering, but they study the computer itself, that is because a computer, or rather, a universal computational device is fundamentally different than an engine or a factory. A computer large enough could run the engine and the factory within a program a thousand times over, and any possible algorithm imaginable. Because we stand on the shoulders of giants, we understand computers as Turing complete which distinguishes Computer Science from all other fields.</desc><tspan
-         id="tspan2"
-         style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="20.917067"
-         y="9.6589766">Alan Turing</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0548327"
-       id="rect1-5-7"
-       width="12.043153"
-       height="3.9609828"
-       x="19.786383"
-       y="15.688744"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="24.716845"
-       y="18.321129"
-       id="text2-0"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9"
+    <g
+       id="g1103">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0548327"
+         id="rect1-5-7"
+         width="12.043153"
+         height="3.9609828"
+         x="19.786383"
+         y="15.688744"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
          x="24.716845"
-         y="18.321129">Van Nuemann </tspan><tspan
-         style="font-size:1.37201px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="24.716845"
-         y="20.03614"
-         id="tspan5">Model</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.264809"
-       y="15.871365"
-       id="text4"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4"
-         style="stroke-width:0.0668204"
+         y="18.321129"
+         id="text2-0"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9"
+           style="font-size:1.37201px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="24.716845"
+           y="18.321129">Van Nuemann </tspan><tspan
+           style="font-size:1.37201px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="24.716845"
+           y="20.03614"
+           id="tspan5">Model</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
          x="22.264809"
-         y="15.871365">1945</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7"
-       width="8.4155369"
-       height="3.9609828"
-       x="21.600191"
-       y="25.524429"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="22.478415"
-       y="29.417664"
-       id="text2-0-9"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2"
+         y="15.871365"
+         id="text4"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4"
+           style="stroke-width:0.0668204"
+           x="22.264809"
+           y="15.871365">1945</tspan></text>
+    </g>
+    <g
+       id="g1116">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7"
+         width="8.4155369"
+         height="3.9609828"
+         x="21.600191"
+         y="25.524429"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
          x="22.478415"
-         y="29.417664">ENIAC </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.255009"
-       y="25.685328"
-       id="text4-0"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23"
-         style="stroke-width:0.0668204"
+         y="29.417664"
+         id="text2-0-9"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="22.478415"
+           y="29.417664">ENIAC </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
          x="22.255009"
-         y="25.685328">1946</tspan></text>
+         y="25.685328"
+         id="text4-0"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23"
+           style="stroke-width:0.0668204"
+           x="22.255009"
+           y="25.685328">1946</tspan></text>
+    </g>
     <rect
        style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
        id="rect1-5-7-7-2"
@@ -159,500 +180,810 @@ A mechanical engineer does not study the engine, but rather physics. A chemical 
          style="stroke-width:0.0668204"
          x="34.766907"
          y="36.897011">1959</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7-2-2-4"
-       width="8.4155369"
-       height="3.9609828"
-       x="21.600191"
-       y="35.892952"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="22.166283"
-       y="40.190598"
-       id="text2-0-9-2-9-5"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0"
+    <g
+       id="g1123">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7-2-2-4"
+         width="8.4155369"
+         height="3.9609828"
+         x="21.600191"
+         y="35.892952"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
          x="22.166283"
-         y="40.190598">Multics </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.22855"
-       y="36.67683"
-       id="text4-0-9-1-3"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6"
-         style="stroke-width:0.0668204"
+         y="40.190598"
+         id="text2-0-9-2-9-5"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="22.166283"
+           y="40.190598">Multics </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
          x="22.22855"
-         y="36.67683">1964</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7-2-2-4-3"
-       width="8.4155369"
-       height="3.9609828"
-       x="21.600191"
-       y="46.231186"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="23.01144"
-       y="51.039474"
-       id="text2-0-9-2-9-5-2"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0-0"
+         y="36.67683"
+         id="text4-0-9-1-3"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6"
+           style="stroke-width:0.0668204"
+           x="22.22855"
+           y="36.67683">1964</tspan></text>
+    </g>
+    <g
+       id="g1130">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7-2-2-4-3"
+         width="8.4155369"
+         height="3.9609828"
+         x="21.600191"
+         y="46.231186"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
          x="23.01144"
-         y="51.039474">Unix </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.259907"
-       y="47.549904"
-       id="text4-0-9-1-3-6"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6-1"
-         style="stroke-width:0.0668204"
+         y="51.039474"
+         id="text2-0-9-2-9-5-2"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0-0"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="23.01144"
+           y="51.039474">Unix </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
          x="22.259907"
-         y="47.549904">1969</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7-2-2-4-3-7"
-       width="8.4155369"
-       height="3.9609828"
-       x="21.600191"
-       y="56.405704"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="24.063084"
-       y="61.614643"
-       id="text2-0-9-2-9-5-2-6"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0-0-5"
+         y="47.549904"
+         id="text4-0-9-1-3-6"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1"
+           style="stroke-width:0.0668204"
+           x="22.259907"
+           y="47.549904">1969</tspan></text>
+    </g>
+    <g
+       id="g1137">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7-2-2-4-3-7"
+         width="8.4155369"
+         height="3.9609828"
+         x="21.600191"
+         y="56.405704"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
          x="24.063084"
-         y="61.614643">C </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.259907"
-       y="58.25079"
-       id="text4-0-9-1-3-6-6"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6-1-9"
-         style="stroke-width:0.0668204"
+         y="61.614643"
+         id="text2-0-9-2-9-5-2-6"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0-0-5"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="24.063084"
+           y="61.614643">C </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
          x="22.259907"
-         y="58.25079">1972</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7-2-2-4-3-7-5"
-       width="8.4155369"
-       height="3.9609828"
-       x="21.600191"
-       y="69.59623"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="23.036821"
-       y="75.600822"
-       id="text2-0-9-2-9-5-2-6-2"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0-0-5-5"
+         y="58.25079"
+         id="text4-0-9-1-3-6-6"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1-9"
+           style="stroke-width:0.0668204"
+           x="22.259907"
+           y="58.25079">1972</tspan></text>
+    </g>
+    <g
+       id="g1152">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7-2-2-4-3-7-5"
+         width="8.4155369"
+         height="3.9609828"
+         x="21.337358"
+         y="77.218353"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="23.036821"
-         y="75.600822">GNU</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.264809"
-       y="72.123718"
-       id="text4-0-9-1-3-6-6-4"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6-1-9-7"
-         style="stroke-width:0.0668204"
-         x="22.264809"
-         y="72.123718">1983</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7-2-2-4-3-7-5-0"
-       width="8.4155369"
-       height="3.9609828"
-       x="16.586889"
-       y="79.646599"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="17.57888"
-       y="86.230858"
-       id="text2-0-9-2-9-5-2-6-2-7"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0-0-5-5-8"
+         x="22.786919"
+         y="83.617264"
+         id="text2-0-9-2-9-5-2-6-2"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0-0-5-5"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="22.786919"
+           y="83.617264">GNU</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
+         x="22.014906"
+         y="80.14016"
+         id="text4-0-9-1-3-6-6-4"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1-9-7"
+           style="stroke-width:0.0668204"
+           x="22.014906"
+           y="80.14016">1983</tspan></text>
+    </g>
+    <g
+       id="g1159">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7-2-2-4-3-7-5-0"
+         width="8.4155369"
+         height="3.9609828"
+         x="16.324057"
+         y="87.268723"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="17.57888"
-         y="86.230858">Debian</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="17.388546"
-       y="82.694023"
-       id="text4-0-9-1-3-6-6-4-6"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6-1-9-7-8"
-         style="stroke-width:0.0668204"
-         x="17.388546"
-         y="82.694023">1993</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7-2-2-4-3-7-5-0-5"
-       width="8.4155369"
-       height="3.9609828"
-       x="22.251265"
-       y="90.174377"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="23.755358"
-       y="96.911903"
-       id="text2-0-9-2-9-5-2-6-2-7-3"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0-0-5-5-8-5"
+         x="17.328978"
+         y="94.247299"
+         id="text2-0-9-2-9-5-2-6-2-7"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0-0-5-5-8"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="17.328978"
+           y="94.247299">Debian</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
+         x="17.138643"
+         y="90.710464"
+         id="text4-0-9-1-3-6-6-4-6"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1-9-7-8"
+           style="stroke-width:0.0668204"
+           x="17.138643"
+           y="90.710464">1993</tspan></text>
+    </g>
+    <g
+       id="g1166">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7-2-2-4-3-7-5-0-1"
+         width="8.4155369"
+         height="3.9609828"
+         x="27.208298"
+         y="87.267685"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="23.755358"
-         y="96.911903">Java</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7-2-2-4-3-7-5-0-1"
-       width="8.4155369"
-       height="3.9609828"
-       x="27.47113"
-       y="79.645561"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="27.69803"
-       y="86.254196"
-       id="text2-0-9-2-9-5-2-6-2-7-4"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0-0-5-5-8-9"
-         style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="27.69803"
-         y="86.254196">Red Hat</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="27.737402"
-       y="82.692932"
-       id="text4-0-9-1-3-6-6-4-6-2"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6-1-9-7-8-0"
-         style="stroke-width:0.0668204"
-         x="27.737402"
-         y="82.692932">1993</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0666593"
-       id="rect1-5-7-7-2-2-4-3-7-5-0-1-2"
-       width="14.857494"
-       height="4.7450557"
-       x="17.996513"
-       y="108.25476"
-       ry="1.0852798" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="24.160866"
-       y="116.05399"
-       id="text2-0-9-2-9-5-2-6-2-7-4-6"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0-0-5-5-8-9-6"
+         x="27.448128"
+         y="94.270638"
+         id="text2-0-9-2-9-5-2-6-2-7-4"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0-0-5-5-8-9"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="27.448128"
+           y="94.270638">Red Hat</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
+         x="27.487499"
+         y="90.709373"
+         id="text4-0-9-1-3-6-6-4-6-2"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1-9-7-8-0"
+           style="stroke-width:0.0668204"
+           x="27.487499"
+           y="90.709373">1993</tspan></text>
+    </g>
+    <g
+       id="g1195">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0666593"
+         id="rect1-5-7-7-2-2-4-3-7-5-0-1-2"
+         width="14.857494"
+         height="4.7450557"
+         x="18.127928"
+         y="115.87688"
+         ry="1.0852798" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="24.160866"
-         y="116.05399">REST and Web </tspan><tspan
-         style="font-size:1.37201px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="24.160866"
-         y="117.769"
-         id="tspan7">Standardization</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.02496"
-       y="112.43783"
-       id="text4-0-9-1-3-6-6-4-6-2-4"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6-1-9-7-8-0-9"
-         style="stroke-width:0.0668204"
-         x="22.02496"
-         y="112.43783">2000</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.256968"
-       y="6.6007915"
-       id="text4-6"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-2"
-         style="stroke-width:0.0668204"
+         x="24.285818"
+         y="124.07044"
+         id="text2-0-9-2-9-5-2-6-2-7-4-6"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0-0-5-5-8-9-6"
+           style="font-size:1.37201px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="24.285818"
+           y="124.07044">REST and Web </tspan><tspan
+           style="font-size:1.37201px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="24.285818"
+           y="125.78544"
+           id="tspan7">Standardization</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
+         x="22.149912"
+         y="120.45427"
+         id="text4-0-9-1-3-6-6-4-6-2-4"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1-9-7-8-0-9"
+           style="stroke-width:0.0668204"
+           x="22.149912"
+           y="120.45427">2000</tspan></text>
+    </g>
+    <g
+       id="g1095">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0467732"
+         id="rect1-5"
+         width="8.7628365"
+         height="3.9609828"
+         x="21.42654"
+         y="6.7442126"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
+         style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+         x="20.917067"
+         y="9.6589766"
+         id="text2"
+         transform="scale(1.0517339,0.95081085)"><desc
+           id="desc1">Dealing with the philosophical problem of defining &quot;computing&quot; itself, Alan Turing came up with the theoretical machine that could solve any calculation, given enough time. In the 30's, computers were either analog/mechanical or built using tapes such as Turing's device below. This idea of a universal computational device is key to understanding Computer Science as a field of study and what distinguishes it from all others.
+
+A mechanical engineer does not study the engine, but rather physics. A chemical engineer does not study the factory, but chemistry itself. So then what does a computer scientist study? You might guess physics or electrical engineering, but they study the computer itself, that is because a computer, or rather, a universal computational device is fundamentally different than an engine or a factory. A computer large enough could run the engine and the factory within a program a thousand times over, and any possible algorithm imaginable. Because we stand on the shoulders of giants, we understand computers as Turing complete which distinguishes Computer Science from all other fields.</desc><tspan
+           id="tspan2"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="20.917067"
+           y="9.6589766">Alan Turing</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
          x="22.256968"
-         y="6.6007915">1937</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.614586"
-       y="93.472366"
-       id="text4-0-9-1-3-6-6-4-6-6"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6-1-9-7-8-2"
-         style="stroke-width:0.0668204"
-         x="22.614586"
-         y="93.472366">1995</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7-2-2-4-3-7-5-0-5-7"
-       width="8.4155369"
-       height="3.9609828"
-       x="22.632448"
-       y="98.401329"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="22.659428"
-       y="105.89669"
-       id="text2-0-9-2-9-5-2-6-2-7-3-9"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0-0-5-5-8-5-2"
+         y="6.6007915"
+         id="text4-6"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-2"
+           style="stroke-width:0.0668204"
+           x="22.256968"
+           y="6.6007915">1937</tspan></text>
+    </g>
+    <g
+       id="g1173">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7-2-2-4-3-7-5-0-5"
+         width="8.4155369"
+         height="3.9609828"
+         x="21.331352"
+         y="98.322174"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="22.659428"
-         y="105.89669">Javascript</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="23.045307"
-       y="102.59991"
-       id="text4-0-9-1-3-6-6-4-6-6-0"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6-1-9-7-8-2-2"
-         style="stroke-width:0.0668204"
-         x="23.045307"
-         y="102.59991">1995</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7-2-2-4-3-7-5-0-5-9"
-       width="8.4155369"
-       height="3.9609828"
-       x="22.489582"
-       y="121.07415"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="23.981953"
-       y="129.41023"
-       id="text2-0-9-2-9-5-2-6-2-7-3-2"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0-0-5-5-8-5-28"
+         x="22.880697"
+         y="105.48121"
+         id="text2-0-9-2-9-5-2-6-2-7-3"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0-0-5-5-8-5"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="22.880697"
+           y="105.48121">Java</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
+         x="21.739925"
+         y="102.04166"
+         id="text4-0-9-1-3-6-6-4-6-6"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1-9-7-8-2"
+           style="stroke-width:0.0668204"
+           x="21.739925"
+           y="102.04166">1995</tspan></text>
+    </g>
+    <g
+       id="g1187">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7-2-2-4-3-7-5-0-5-7"
+         width="8.4155369"
+         height="3.9609828"
+         x="21.712536"
+         y="106.54912"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="23.981953"
-         y="129.41023">Go</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.873667"
-       y="126.05675"
-       id="text4-0-9-1-3-6-6-4-6-6-9"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6-1-9-7-8-2-7"
-         style="stroke-width:0.0668204"
-         x="22.873667"
-         y="126.05675">2012</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7-2-2-4-3-7-5-0-5-9-2"
-       width="8.4155369"
-       height="3.9609828"
-       x="21.695833"
-       y="137.50667"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="20.782352"
-       y="147.03316"
-       id="text2-0-9-2-9-5-2-6-2-7-3-2-9"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0-0-5-5-8-5-28-3"
+         x="21.784767"
+         y="114.46599"
+         id="text2-0-9-2-9-5-2-6-2-7-3-9"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0-0-5-5-8-5-2"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="21.784767"
+           y="114.46599">Javascript</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
+         x="22.170647"
+         y="111.1692"
+         id="text4-0-9-1-3-6-6-4-6-6-0"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1-9-7-8-2-2"
+           style="stroke-width:0.0668204"
+           x="22.170647"
+           y="111.1692">1995</tspan></text>
+    </g>
+    <g
+       id="g1202">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7-2-2-4-3-7-5-0-5-9"
+         width="8.4155369"
+         height="3.9609828"
+         x="21.569672"
+         y="126.98787"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="20.782352"
-         y="147.03316">Kubernetes</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.118961"
-       y="143.33939"
-       id="text4-0-9-1-3-6-6-4-6-6-9-1"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6-1-9-7-8-2-7-9"
-         style="stroke-width:0.0668204"
-         x="22.118961"
-         y="143.33939">2015</tspan></text>
-    <rect
-       style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
-       id="rect1-5-7-7-2-2-4-3-7-5-0-5-9-2-4"
-       width="8.4155369"
-       height="3.9609828"
-       x="22.043465"
-       y="130.84793"
-       ry="0.90594816" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="21.771507"
-       y="140.02206"
-       id="text2-0-9-2-9-5-2-6-2-7-3-2-9-5"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan2-9-2-8-3-0-0-5-5-8-5-28-3-0"
+         x="23.73205"
+         y="135.62988"
+         id="text2-0-9-2-9-5-2-6-2-7-3-2"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0-0-5-5-8-5-28"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="23.73205"
+           y="135.62988">Go</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
+         x="21.999006"
+         y="132.2764"
+         id="text4-0-9-1-3-6-6-4-6-6-9"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1-9-7-8-2-7"
+           style="stroke-width:0.0668204"
+           x="21.999006"
+           y="132.2764">2012</tspan></text>
+    </g>
+    <g
+       id="g1216">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7-2-2-4-3-7-5-0-5-9-2"
+         width="8.4155369"
+         height="3.9609828"
+         x="21.432999"
+         y="146.04871"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="21.771507"
-         y="140.02206">Dockers</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="22.449493"
-       y="136.33617"
-       id="text4-0-9-1-3-6-6-4-6-6-9-1-3"
-       transform="scale(1.0517339,0.95081085)"><tspan
-         id="tspan4-23-7-9-6-1-9-7-8-2-7-9-6"
-         style="stroke-width:0.0668204"
-         x="22.449493"
-         y="136.33617">2013</tspan></text>
+         x="20.532452"
+         y="156.01712"
+         id="text2-0-9-2-9-5-2-6-2-7-3-2-9"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0-0-5-5-8-5-28-3"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="20.532452"
+           y="156.01712">Kubernetes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
+         x="21.869061"
+         y="152.32335"
+         id="text4-0-9-1-3-6-6-4-6-6-9-1"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1-9-7-8-2-7-9"
+           style="stroke-width:0.0668204"
+           x="21.869061"
+           y="152.32335">2015</tspan></text>
+    </g>
+    <g
+       id="g1209">
+      <rect
+         style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
+         id="rect1-5-7-7-2-2-4-3-7-5-0-5-9-2-4"
+         width="8.4155369"
+         height="3.9609828"
+         x="21.517797"
+         y="137.02448"
+         ry="0.90594816" />
+      <text
+         xml:space="preserve"
+         style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+         x="21.271704"
+         y="146.51817"
+         id="text2-0-9-2-9-5-2-6-2-7-3-2-9-5"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan2-9-2-8-3-0-0-5-5-8-5-28-3-0"
+           style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
+           x="21.271704"
+           y="146.51817">Dockers</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
+         x="21.94969"
+         y="142.83228"
+         id="text4-0-9-1-3-6-6-4-6-6-9-1-3"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1-9-7-8-2-7-9-6"
+           style="stroke-width:0.0668204"
+           x="21.94969"
+           y="142.83228">2013</tspan></text>
+    </g>
     <rect
        style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
        id="rect1-5-7-7-2-2-3"
        width="8.4155369"
        height="3.9609828"
-       x="59.795834"
-       y="38.352837"
+       x="56.379021"
+       y="112.20859"
        ry="0.90594816" />
     <text
        xml:space="preserve"
        style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="58.090961"
-       y="42.77774"
+       x="54.842216"
+       y="120.45434"
        id="text2-0-9-2-9-2"
        transform="scale(1.0517339,0.95081085)"><tspan
          id="tspan2-9-2-8-3-06"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="58.090961"
-         y="42.77774">Selenium </tspan></text>
+         x="54.842216"
+         y="120.45434">Selenium </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="58.576744"
-       y="39.263981"
+       x="55.327999"
+       y="116.94058"
        id="text4-0-9-1-1"
        transform="scale(1.0517339,0.95081085)"><tspan
          id="tspan4-23-7-9-5"
          style="stroke-width:0.0668204"
-         x="58.576744"
-         y="39.263981">2004</tspan></text>
+         x="55.327999"
+         y="116.94058">2004</tspan></text>
     <rect
        style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
        id="rect1-5-7-7-2-2-3-6"
        width="8.4155369"
        height="3.9609828"
-       x="54.58284"
-       y="49.39048"
+       x="51.166027"
+       y="123.24623"
        ry="0.90594816" />
     <text
        xml:space="preserve"
        style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="53.412285"
-       y="54.415138"
+       x="50.16354"
+       y="132.09174"
        id="text2-0-9-2-9-2-5"
        transform="scale(1.0517339,0.95081085)"><tspan
          id="tspan2-9-2-8-3-06-6"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="53.412285"
-         y="54.415138">Cypress </tspan></text>
+         x="50.16354"
+         y="132.09174">Cypress </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="57.859058"
-       y="50.461742"
+       x="54.610313"
+       y="128.13834"
        id="text4-0-9-1-1-9"
        transform="scale(1.0517339,0.95081085)"><tspan
          id="tspan4-23-7-9-5-3"
          style="stroke-width:0.0668204"
-         x="57.859058"
-         y="50.461742">2018</tspan></text>
+         x="54.610313"
+         y="128.13834">2018</tspan></text>
     <rect
        style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
        id="rect1-5-7-7-2-2-3-6-2"
        width="8.4155369"
        height="3.9609828"
-       x="66.534653"
-       y="49.357941"
+       x="63.11784"
+       y="123.21369"
        ry="0.90594816" />
     <text
        xml:space="preserve"
        style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="64.025421"
-       y="54.333683"
+       x="60.776676"
+       y="132.01028"
        id="text2-0-9-2-9-2-5-5"
        transform="scale(1.0517339,0.95081085)"><tspan
          id="tspan2-9-2-8-3-06-6-4"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="64.025421"
-         y="54.333683">Puppeteer </tspan></text>
+         x="60.776676"
+         y="132.01028">Puppeteer </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="64.293823"
-       y="32.442928"
+       x="60.87701"
+       y="106.29868"
        id="text9"><desc
          id="desc9">https://star-history.com/#cypress-io/cypress&amp;puppeteer/puppeteer&amp;microsoft/playwright&amp;Date</desc><tspan
          id="tspan9"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="64.293823"
-         y="32.442928">Testing</tspan></text>
+         x="60.87701"
+         y="106.29868">Testing</tspan></text>
     <rect
        style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0458364"
        id="rect1-5-7-7-2-2-3-6-2-4"
        width="8.4155369"
        height="3.9609828"
-       x="60.23177"
-       y="59.5256"
+       x="56.814957"
+       y="133.38135"
        ry="0.90594816" />
     <text
        xml:space="preserve"
        style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-       x="57.784588"
-       y="65.096611"
+       x="54.535843"
+       y="142.77321"
        id="text2-0-9-2-9-2-5-5-9"
        transform="scale(1.0517339,0.95081085)"><tspan
          id="tspan2-9-2-8-3-06-6-4-2"
          style="font-size:1.37201px;fill:#000000;fill-opacity:1;stroke-width:0.0467732"
-         x="57.784588"
-         y="65.096611">Playwright </tspan></text>
+         x="54.535843"
+         y="142.77321">Playwright </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
-       x="58.244225"
-       y="61.774426"
+       x="54.99548"
+       y="139.45102"
        id="text4-0-9-1-1-9-9"
        transform="scale(1.0517339,0.95081085)"><tspan
          id="tspan4-23-7-9-5-3-2"
          style="stroke-width:0.0668204"
-         x="58.244225"
-         y="61.774426">2022</tspan></text>
+         x="54.99548"
+         y="139.45102">2022</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text629"
+       style="white-space:pre;shape-inside:url(#rect631);display:inline;fill:#000000" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="26.546019"
+       y="66.365044"
+       id="text637"><tspan
+         sodipodi:role="line"
+         id="tspan635"
+         style="stroke-width:0.264583"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="25.363274"
+       y="65.313713"
+       id="text641"><tspan
+         sodipodi:role="line"
+         id="tspan639"
+         style="stroke-width:0.264583"></tspan></text>
+    <g
+       id="g1145">
+      <text
+         xml:space="preserve"
+         style="font-size:1.96007px;fill:#000000;fill-opacity:1;stroke-width:0.0668204"
+         x="22.149473"
+         y="68.701324"
+         id="text4-0-9-1-3-6-6-5"
+         transform="scale(1.0517339,0.95081085)"><tspan
+           id="tspan4-23-7-9-6-1-9-6"
+           style="stroke-width:0.0668204"
+           x="22.149473"
+           y="68.701324">1972</tspan></text>
+      <g
+         id="g859"
+         transform="translate(0.19712389,2.6283186)">
+        <rect
+           style="fill:#c5e6b0;fill-opacity:1;stroke-width:0.0474196"
+           id="rect1-5-7-7-2-2-4-3-7-3"
+           width="9.0069084"
+           height="3.9609828"
+           x="21.089798"
+           y="63.598064"
+           ry="0.90594816" />
+        <text
+           xml:space="preserve"
+           style="font-size:1.37201px;fill:#000000;stroke-width:0.264583"
+           x="21.420795"
+           y="65.839378"
+           id="text645"><tspan
+             sodipodi:role="line"
+             id="tspan643"
+             style="stroke-width:0.264583"
+             x="21.420795"
+             y="65.839378">Lisp Machine</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:1.37201px;fill:#000000;stroke-width:0.264583"
+       x="28.057301"
+       y="69.78186"
+       id="text649"><tspan
+         sodipodi:role="line"
+         id="tspan647"
+         style="stroke-width:0.264583"></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text861"
+       style="fill:#000000;font-size:5.18554973px;white-space:pre;shape-inside:url(#rect863)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.807959,19.649726 0,5.874703"
+       id="path1051"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7"
+       inkscape:connection-end="#rect1-5-7-7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.375592,19.649726 7.926779,6.114159"
+       id="path1053"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7"
+       inkscape:connection-end="#rect1-5-7-7-2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.80796,29.485412 v 6.40754"
+       id="path1055"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38.903659,29.724868 0.126872,7.465841"
+       id="path1057"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.80796,39.853935 v 6.377251"
+       id="path1061"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.80796,50.192169 v 6.213535"
+       id="path1063"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4-3"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3-7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.804414,60.366687 -0.01049,5.859696"
+       id="path1065"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4-3-7"
+       inkscape:connection-end="#g859" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.746188,70.187366 -0.156873,7.030987"
+       id="path1067"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g859"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3-7-5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.557223,81.179336 -3.037494,6.089387"
+       id="path1069"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4-3-7-5"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3-7-5-0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.702154,81.179336 3.556886,6.088349"
+       id="path1071"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4-3-7-5"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3-7-5-0-1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 21.429002,91.229705 3.212941,7.092469"
+       id="path1073"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4-3-7-5-0"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3-7-5-0-5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.363169,91.228668 -3.771151,7.093506"
+       id="path1075"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4-3-7-5-0-1"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3-7-5-0-5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.630884,102.28316 0.197657,4.26596"
+       id="path1077"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4-3-7-5-0-5"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3-7-5-0-5-7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.846212,110.5101 -0.200778,5.36678"
+       id="path1079"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4-3-7-5-0-5-7"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3-7-5-0-1-2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.605539,120.62193 0.131111,6.36594"
+       id="path1081"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4-3-7-5-0-1-2"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3-7-5-0-5-9" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.767204,130.94885 -0.0314,6.07563"
+       id="path1083"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4-3-7-5-0-5-9"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3-7-5-0-5-9-2-4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.706956,140.98546 -0.04758,5.06325"
+       id="path1085"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-4-3-7-5-0-5-9-2-4"
+       inkscape:connection-end="#rect1-5-7-7-2-2-4-3-7-5-0-5-9-2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.807959,10.705195 0,4.983549"
+       id="path1087"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5"
+       inkscape:connection-end="#rect1-5-7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 59.651418,116.16957 -3.342252,7.07666"
+       id="path1218"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-3"
+       inkscape:connection-end="#rect1-5-7-7-2-2-3-6" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.799515,116.16957 4.313367,7.04412"
+       id="path1220"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-3"
+       inkscape:connection-end="#rect1-5-7-7-2-2-3-6-2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 56.477646,127.20721 3.441228,6.17414"
+       id="path1222"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-3-6"
+       inkscape:connection-end="#rect1-5-7-7-2-2-3-6-2-4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.097911,127.17467 -3.847488,6.20668"
+       id="path1224"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1-5-7-7-2-2-3-6-2"
+       inkscape:connection-end="#rect1-5-7-7-2-2-3-6-2-4" />
   </g>
 </svg>
