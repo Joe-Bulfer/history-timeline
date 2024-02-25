@@ -10,3 +10,8 @@ Currently have notes hosted on my personal [website](https://joebulfer.com/Histo
 There is a browser only approach by only storing the articles within a description attribute to the SVG added with Inkscape. A javascript event listener would swap text with whatever is in the sidepanel. In the future, a more scalable client-server model would be to store the articles as HTML files returned from the server using HTMX. 
 
 Click [here](https://joebulfer.com/Javascript+and+Web+Design/SVG+Timeline) for further reading.
+
+TODO
+- [ ] include text in rect to be clickable, currently only the rect has the click event listener and the text gets in the way
+- [ ] make side panel move out instead of being static
+      
