@@ -2,15 +2,12 @@ body {
 	background-color: lightgray;
 }
 
-#sideView {
-	top: 10px;
-	position: fixed;
-}
 
-/*
+
+
 #sideView {
     position: fixed;
-    right: -250px; /* Start off-screen 
+    right: -250px; 
     top: 0;
     width: 250px;
     height: 100%;
@@ -19,7 +16,8 @@ body {
     transition: right 0.3s;
 }
 
+
 #sideView.open {
     right: 0;
 }
-/*
+
