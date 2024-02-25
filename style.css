@@ -1,0 +1,25 @@
+body {
+	background-color: lightgray;
+}
+
+#sideView {
+	top: 10px;
+	position: fixed;
+}
+
+/*
+#sideView {
+    position: fixed;
+    right: -250px; /* Start off-screen 
+    top: 0;
+    width: 250px;
+    height: 100%;
+    background-color: white;
+    border-left: 1px solid black;
+    transition: right 0.3s;
+}
+
+#sideView.open {
+    right: 0;
+}
+/*
