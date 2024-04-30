@@ -13,5 +13,6 @@ Click [here](https://joebulfer.com/Javascript+and+Web+Design/SVG+Timeline) for f
 
 TODO
 - [ ] include text in rect to be clickable, currently only the rect has the click event listener and the text gets in the way
+- [ ] change name of array from events to rects and make text and rect be wrapped in g element that has the id of the name
 - [ ] make side panel move out instead of being static
       
